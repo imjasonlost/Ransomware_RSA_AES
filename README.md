@@ -1,0 +1,2 @@
+Ransomware_RSA_AES
+This is just a demo version of the program to encrypt files using AES and RSA (Hybrid encryption) You need to install pycryptodome python library to use this code. Run by "pip install pycryptodome" in exact specific directory where codes lie
