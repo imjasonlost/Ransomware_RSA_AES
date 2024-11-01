@@ -3,17 +3,19 @@ from Crypto.Cipher import AES, PKCS1_OAEP
 from Crypto.PublicKey import RSA
 
 # AES decryption of files
+#
+
 def decrypt_file_aes(file_path, aes_key):
     with open(file_path, 'rb') as f:
-        iv = f.read(16)  # Read the first 16 bytes (IV)
-        ciphertext = f.read()  # Read the rest (ciphertext)
+        iv = f.read(16)  # Read the first 16 bytes as the IV
+        ciphertext = f.read()  # Read the rest of the file as ciphertext
 
     cipher_aes = AES.new(aes_key, AES.MODE_CFB, iv=iv)
-    plaintext = cipher_aes.decrypt(ciphertext)
+    decrypted_data = cipher_aes.decrypt(ciphertext)
 
-    # Save the decrypted file
-    with open(file_path.replace('.enc', ''), 'wb') as f:
-        f.write(plaintext)
+    # Save the decrypted file (you might want to choose a different name)
+    with open(file_path[:-4], 'wb') as f:  # Remove .enc extension
+        f.write(decrypted_data)
 
 # RSA decryption of the AES key
 def decrypt_aes_key_rsa(encrypted_key, rsa_private_key):
@@ -44,7 +46,7 @@ def load_rsa_keys():
 
 # Main decryption process
 if __name__ == "__main__":
-    folder_to_decrypt = "C:\\Jason\\Computer Security"
+    folder_to_decrypt = "C:\\Users\\ts1506\\Desktop\\Security"
 
     # Load RSA private key
     private_key = load_rsa_keys()

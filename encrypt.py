@@ -13,7 +13,7 @@ def encrypt_file_aes(file_path, aes_key, iv):
 
     # Save the encrypted file with the IV prepended
     with open(file_path + ".enc", 'wb') as f:
-        #f.write(iv)  # Prepend IV to the encrypted data
+        f.write(iv)  # Prepend IV to the encrypted data
         f.write(ciphertext)
 
 
@@ -72,7 +72,7 @@ def load_rsa_keys():
 
 # Main encryption process
 if __name__ == "__main__":
-    folder_to_encrypt = "C:\\Jason\\Computer Security"
+    folder_to_encrypt = "C:\\Users\\ts1506\\Desktop\\Security"
 
     # Generate or load RSA keys
     if not os.path.exists("private.pem") or not os.path.exists("public.pem"):
