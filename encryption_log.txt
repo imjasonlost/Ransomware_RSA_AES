@@ -1,0 +1,224 @@
+2024-11-06 18:02:11,782 - INFO - File created: C:\Jason\Computer Security\aes_key.bin.enc
+2024-11-06 18:02:12,305 - INFO - First encryption attempt detected. Allowed.
+2024-11-06 18:02:12,305 - INFO - File created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc
+2024-11-06 18:02:13,268 - INFO - File created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc
+2024-11-06 18:02:13,932 - INFO - File created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc
+2024-11-06 18:02:14,603 - INFO - File created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc
+2024-11-06 18:02:15,273 - INFO - File created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc
+2024-11-06 18:02:15,943 - INFO - File created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc
+2024-11-06 18:02:16,609 - INFO - File created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc
+2024-11-06 18:02:17,270 - INFO - File created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc
+2024-11-06 18:02:17,940 - INFO - File created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc
+2024-11-06 18:02:18,601 - INFO - File created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc
+2024-11-06 18:02:19,263 - INFO - File created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc
+2024-11-06 18:02:19,924 - INFO - File created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc
+2024-11-06 18:02:20,580 - INFO - File created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc
+2024-11-06 18:02:21,243 - INFO - File created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc
+2024-11-06 18:02:21,906 - INFO - File created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc
+2024-11-06 18:02:22,566 - INFO - File created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc
+2024-11-06 18:02:23,227 - INFO - File created: C:\Jason\Computer Security\aes_key.bin
+2024-11-06 18:02:49,772 - INFO - File created: C:\Jason\Computer Security\aes_key.bin.enc
+2024-11-06 18:02:50,488 - INFO - File created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc
+2024-11-06 18:02:51,222 - INFO - File created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc
+2024-11-06 18:02:51,898 - INFO - File created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc
+2024-11-06 18:02:52,568 - INFO - File created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc
+2024-11-06 18:02:53,233 - INFO - File created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc
+2024-11-06 18:02:53,893 - INFO - File created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc
+2024-11-06 18:02:54,555 - INFO - File created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc
+2024-11-06 18:02:55,219 - INFO - File created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc
+2024-11-06 18:02:55,888 - INFO - File created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc
+2024-11-06 18:02:56,554 - INFO - File created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc
+2024-11-06 18:02:57,220 - INFO - File created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc
+2024-11-06 18:02:57,884 - INFO - File created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc
+2024-11-06 18:02:58,551 - INFO - File created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc
+2024-11-06 18:02:59,216 - INFO - File created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc
+2024-11-06 18:02:59,929 - INFO - File created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc
+2024-11-06 18:03:00,706 - INFO - File created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc
+2024-11-06 18:03:01,434 - INFO - File created: C:\Jason\Computer Security\aes_key.bin
+2024-11-06 18:03:12,688 - INFO - File created: C:\Jason\Computer Security\aes_key.bin.enc.enc
+2024-11-06 18:03:13,204 - WARNING - Encryption attempt blocked and process terminated.
+2024-11-06 18:03:13,205 - INFO - File created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc.enc
+2024-11-06 18:03:13,895 - INFO - File created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:14,585 - INFO - File created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:15,259 - INFO - File created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:15,927 - INFO - File created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:16,595 - INFO - File created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:17,263 - INFO - File created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:17,934 - INFO - File created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:18,609 - INFO - File created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:19,276 - INFO - File created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:19,951 - INFO - File created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:20,615 - INFO - File created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:21,284 - INFO - File created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc.enc
+2024-11-06 18:03:21,953 - INFO - File created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:04,734 - INFO - File created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc
+2024-11-06 18:05:05,830 - INFO - File created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc
+2024-11-06 18:05:06,543 - INFO - File created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc
+2024-11-06 18:05:07,237 - INFO - File created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc
+2024-11-06 18:05:07,920 - INFO - File created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc
+2024-11-06 18:05:08,601 - INFO - File created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc
+2024-11-06 18:05:09,277 - INFO - File created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc
+2024-11-06 18:05:09,963 - INFO - File created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc
+2024-11-06 18:05:10,637 - INFO - File created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc
+2024-11-06 18:05:11,308 - INFO - File created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc
+2024-11-06 18:05:11,985 - INFO - File created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc
+2024-11-06 18:05:12,652 - INFO - File created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc
+2024-11-06 18:05:13,331 - INFO - File created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc
+2024-11-06 18:05:14,004 - INFO - File created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc
+2024-11-06 18:05:14,675 - INFO - File created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc
+2024-11-06 18:05:15,349 - INFO - File created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc
+2024-11-06 18:05:16,020 - INFO - File created: C:\Jason\Computer Security\aes_key.bin
+2024-11-06 18:05:24,519 - INFO - File created: C:\Jason\Computer Security\aes_key.bin.enc
+2024-11-06 18:05:25,242 - INFO - File created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc.enc
+2024-11-06 18:05:25,950 - INFO - File created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:26,631 - INFO - File created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:27,307 - INFO - File created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:27,978 - INFO - File created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:28,645 - INFO - File created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:29,313 - INFO - File created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:29,984 - INFO - File created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:30,659 - INFO - File created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:31,327 - INFO - File created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:31,998 - INFO - File created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:32,669 - INFO - File created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:33,343 - INFO - File created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:34,013 - INFO - File created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:34,680 - INFO - File created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc.enc
+2024-11-06 18:05:35,351 - INFO - File created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc.enc
+2024-11-06 18:05:36,021 - INFO - File created: C:\Jason\Computer Security\aes_key.bin
+2024-11-06 18:05:39,787 - INFO - File created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc
+2024-11-06 18:05:40,497 - INFO - File created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc
+2024-11-06 18:05:41,196 - INFO - File created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc
+2024-11-06 18:05:41,876 - INFO - File created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc
+2024-11-06 18:05:42,535 - INFO - File created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc
+2024-11-06 18:05:43,195 - INFO - File created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc
+2024-11-06 18:05:43,864 - INFO - File created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc
+2024-11-06 18:05:44,525 - INFO - File created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc
+2024-11-06 18:05:45,184 - INFO - File created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc
+2024-11-06 18:05:45,842 - INFO - File created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc
+2024-11-06 18:05:46,505 - INFO - File created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc
+2024-11-06 18:05:47,171 - INFO - File created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc
+2024-11-06 18:05:47,841 - INFO - File created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc
+2024-11-06 18:05:48,502 - INFO - File created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc
+2024-11-06 18:05:49,209 - INFO - File created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc
+2024-11-06 18:05:49,905 - INFO - File created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc
+2024-11-06 18:06:01,778 - INFO - File created: C:\Jason\Computer Security\aes_key.bin.enc
+2024-11-06 18:06:02,438 - INFO - File created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc
+2024-11-06 18:06:03,105 - INFO - File created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc
+2024-11-06 18:06:03,761 - INFO - File created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc
+2024-11-06 18:06:04,422 - INFO - File created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc
+2024-11-06 18:06:05,088 - INFO - File created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc
+2024-11-06 18:06:05,746 - INFO - File created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc
+2024-11-06 18:06:06,401 - INFO - File created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc
+2024-11-06 18:06:07,065 - INFO - File created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc
+2024-11-06 18:06:07,723 - INFO - File created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc
+2024-11-06 18:06:08,386 - INFO - File created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc
+2024-11-06 18:06:09,049 - INFO - File created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc
+2024-11-06 18:06:09,707 - INFO - File created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc
+2024-11-06 18:06:10,366 - INFO - File created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc
+2024-11-06 18:06:11,027 - INFO - File created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc
+2024-11-06 18:06:11,686 - INFO - File created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc
+2024-11-06 18:06:12,345 - INFO - File created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc
+2024-11-06 18:06:13,007 - INFO - File created: C:\Jason\Computer Security\aes_key.bin
+2024-11-06 18:14:35,024 - INFO - Encrypted file created: C:\Jason\Computer Security\aes_key.bin.enc
+2024-11-06 18:14:35,035 - INFO - Encrypted file created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc
+2024-11-06 18:14:35,085 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc
+2024-11-06 18:14:35,122 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc
+2024-11-06 18:14:35,165 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc
+2024-11-06 18:14:35,224 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc
+2024-11-06 18:14:35,255 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc
+2024-11-06 18:14:35,293 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc
+2024-11-06 18:14:35,323 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc
+2024-11-06 18:14:35,355 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc
+2024-11-06 18:14:35,414 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc
+2024-11-06 18:14:35,456 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc
+2024-11-06 18:14:35,496 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc
+2024-11-06 18:14:35,528 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc
+2024-11-06 18:14:35,556 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc
+2024-11-06 18:14:35,590 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc
+2024-11-06 18:14:35,622 - INFO - Encrypted file created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc
+2024-11-06 18:14:46,109 - INFO - Encrypted file created: C:\Jason\Computer Security\aes_key.bin.enc
+2024-11-06 18:14:46,119 - INFO - Encrypted file created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc
+2024-11-06 18:14:46,171 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc
+2024-11-06 18:14:46,208 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc
+2024-11-06 18:14:46,254 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc
+2024-11-06 18:14:46,314 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc
+2024-11-06 18:14:46,346 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc
+2024-11-06 18:14:46,405 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc
+2024-11-06 18:14:46,433 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc
+2024-11-06 18:14:46,508 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc
+2024-11-06 18:14:46,575 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc
+2024-11-06 18:14:46,630 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc
+2024-11-06 18:14:46,670 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc
+2024-11-06 18:14:46,711 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc
+2024-11-06 18:14:46,750 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc
+2024-11-06 18:14:46,791 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc
+2024-11-06 18:14:46,830 - INFO - Encrypted file created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc
+2024-11-06 18:15:03,371 - INFO - Encrypted file created: C:\Jason\Computer Security\aes_key.bin.enc.enc
+2024-11-06 18:15:03,382 - INFO - Encrypted file created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc.enc
+2024-11-06 18:15:03,428 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,462 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,498 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,538 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,563 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,600 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,626 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,655 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,724 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,784 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,814 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,847 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,879 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,916 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc.enc
+2024-11-06 18:15:03,956 - INFO - Encrypted file created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc.enc
+2024-11-06 18:18:23,566 - INFO - Encrypted file created: C:\Jason\Computer Security\aes_key.bin.enc
+2024-11-06 18:18:23,579 - INFO - Encrypted file created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc
+2024-11-06 18:18:23,624 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc
+2024-11-06 18:18:23,657 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc
+2024-11-06 18:18:23,695 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc
+2024-11-06 18:18:23,732 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc
+2024-11-06 18:18:23,755 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc
+2024-11-06 18:18:23,791 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc
+2024-11-06 18:18:23,818 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc
+2024-11-06 18:18:23,847 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc
+2024-11-06 18:18:23,909 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc
+2024-11-06 18:18:23,946 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc
+2024-11-06 18:18:23,984 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc
+2024-11-06 18:18:24,018 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc
+2024-11-06 18:18:24,045 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc
+2024-11-06 18:18:24,077 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc
+2024-11-06 18:18:24,105 - INFO - Encrypted file created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc
+2024-11-06 18:18:32,195 - INFO - Encrypted file created: C:\Jason\Computer Security\aes_key.bin.enc
+2024-11-06 18:18:32,206 - INFO - Encrypted file created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc
+2024-11-06 18:18:32,254 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc
+2024-11-06 18:18:32,288 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc
+2024-11-06 18:18:32,326 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc
+2024-11-06 18:18:32,364 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc
+2024-11-06 18:18:32,390 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc
+2024-11-06 18:18:32,424 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc
+2024-11-06 18:18:32,448 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc
+2024-11-06 18:18:32,478 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc
+2024-11-06 18:18:32,534 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc
+2024-11-06 18:18:32,571 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc
+2024-11-06 18:18:32,607 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc
+2024-11-06 18:18:32,636 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc
+2024-11-06 18:18:32,661 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc
+2024-11-06 18:18:32,691 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc
+2024-11-06 18:18:32,718 - INFO - Encrypted file created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc
+2024-11-06 18:18:42,434 - INFO - Encrypted file created: C:\Jason\Computer Security\aes_key.bin.enc.enc
+2024-11-06 18:18:42,444 - INFO - Encrypted file created: C:\Jason\Computer Security\Command_Prompt_Customization_Manual.pdf.enc.enc
+2024-11-06 18:18:42,489 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-1-0820-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,525 - INFO - Encrypted file created: C:\Jason\Computer Security\L1-2-0822-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,566 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-1-0827-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,603 - INFO - Encrypted file created: C:\Jason\Computer Security\L2-2-0829-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,628 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-1-0903-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,664 - INFO - Encrypted file created: C:\Jason\Computer Security\L3-2-0905-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,696 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-1-0910-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,726 - INFO - Encrypted file created: C:\Jason\Computer Security\L4-2-0912-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,783 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-1-0917-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,821 - INFO - Encrypted file created: C:\Jason\Computer Security\L5-2-0919-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,856 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-1-0924-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,888 - INFO - Encrypted file created: C:\Jason\Computer Security\L6-2-0926-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,915 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-1-1001-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,944 - INFO - Encrypted file created: C:\Jason\Computer Security\L7-2-1003-CSCE5550.pdf.enc.enc
+2024-11-06 18:18:42,972 - INFO - Encrypted file created: C:\Jason\Computer Security\Lab0_Linux_Basics.pdf.enc.enc

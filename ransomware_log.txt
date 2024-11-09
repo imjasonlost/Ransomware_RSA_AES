@@ -1,84 +1,49 @@
-2024-11-01 14:53:16,867 - WARNING - First detection of encryption activity: C:\Users\ts1506\Desktop\Security\aes_key.bin.enc
-2024-11-01 14:53:16,867 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\aes_key.bin at Fri Nov  1 14:53:16 2024
-2024-11-01 14:53:16,867 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\Favorites.vssx.enc. Stopping encryption.
-2024-11-01 14:53:16,867 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:16,867 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\Favorites.vssx at Fri Nov  1 14:53:16 2024
-2024-11-01 14:53:16,905 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L10-1-1022-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:16,907 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:16,909 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L10-1-1022-CSCE5550.pdf at Fri Nov  1 14:53:16 2024
-2024-11-01 14:53:16,930 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L10-2-1024-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:16,931 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:16,933 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L10-2-1024-CSCE5550.pdf at Fri Nov  1 14:53:16 2024
-2024-11-01 14:53:16,977 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L11-1-1029-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:16,977 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:16,977 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L11-1-1029-CSCE5550.pdf at Fri Nov  1 14:53:16 2024
-2024-11-01 14:53:17,005 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L11-2-1031-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:17,005 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:17,020 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L11-2-1031-CSCE5550.pdf at Fri Nov  1 14:53:17 2024
-2024-11-01 14:53:17,054 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L5-1-0917-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:17,054 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:17,054 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L5-1-0917-CSCE5550.pdf at Fri Nov  1 14:53:17 2024
-2024-11-01 14:53:17,092 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L5-2-0919-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:17,093 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:17,096 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L5-2-0919-CSCE5550.pdf at Fri Nov  1 14:53:17 2024
-2024-11-01 14:53:17,120 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L6-1-0924-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:17,121 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:17,123 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L6-1-0924-CSCE5550.pdf at Fri Nov  1 14:53:17 2024
-2024-11-01 14:53:17,142 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L6-2-0926-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:17,143 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:17,146 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L6-2-0926-CSCE5550.pdf at Fri Nov  1 14:53:17 2024
-2024-11-01 14:53:17,153 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L7-1-1001-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:17,153 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:17,153 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L7-1-1001-CSCE5550.pdf at Fri Nov  1 14:53:17 2024
-2024-11-01 14:53:17,175 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L7-2-1003-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:17,175 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:17,175 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L7-2-1003-CSCE5550.pdf at Fri Nov  1 14:53:17 2024
-2024-11-01 14:53:17,193 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L8-1-1008-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:17,195 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:17,197 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L8-1-1008-CSCE5550.pdf at Fri Nov  1 14:53:17 2024
-2024-11-01 14:53:17,207 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L9-1-1015-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:17,208 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:17,210 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L9-1-1015-CSCE5550.pdf at Fri Nov  1 14:53:17 2024
-2024-11-01 14:53:17,220 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L9-2-1017-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:17,222 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:17,223 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L9-2-1017-CSCE5550.pdf at Fri Nov  1 14:53:17 2024
-2024-11-01 14:53:17,224 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\ryre.txt.enc. Stopping encryption.
-2024-11-01 14:53:17,225 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:17,225 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\ryre.txt at Fri Nov  1 14:53:17 2024
-2024-11-01 14:53:17,225 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\aes_key.bin. Stopping encryption.
-2024-11-01 14:53:17,227 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:27,107 - WARNING - First detection of encryption activity: C:\Users\ts1506\Desktop\Security\aes_key.bin.enc
-2024-11-01 14:53:33,532 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\aes_key.bin at Fri Nov  1 14:53:33 2024
-2024-11-01 14:53:46,877 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\Favorites.vssx.enc. Stopping encryption.
-2024-11-01 14:53:48,130 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:53:48,947 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\Favorites.vssx at Fri Nov  1 14:53:48 2024
-2024-11-01 14:53:50,429 - WARNING - Second detection of encryption activity: C:\Users\ts1506\Desktop\Security\L10-1-1022-CSCE5550.pdf.enc. Stopping encryption.
-2024-11-01 14:53:51,281 - ERROR - Failed to terminate ransomware: [WinError 2] The system cannot find the file specified
-2024-11-01 14:54:06,278 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\aes_key.bin.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,278 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\aes_key.bin.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,278 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\Favorites.vssx.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,278 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\Favorites.vssx.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,318 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L10-1-1022-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,319 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L10-1-1022-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,338 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L10-2-1024-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,376 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L11-1-1029-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,376 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L11-1-1029-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,411 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L11-2-1031-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,411 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L11-2-1031-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,442 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L5-1-0917-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,442 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L5-1-0917-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,474 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L5-2-0919-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,474 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L5-2-0919-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,508 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L6-1-0924-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,508 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L6-1-0924-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,529 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L6-2-0926-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,547 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L7-1-1001-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,547 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L7-1-1001-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,571 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L7-2-1003-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,571 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L7-2-1003-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,579 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L8-1-1008-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,585 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L9-1-1015-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,604 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L9-2-1017-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,604 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\L9-2-1017-CSCE5550.pdf.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,605 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\ryre.txt.enc at Fri Nov  1 14:54:06 2024
-2024-11-01 14:54:06,605 - INFO - File deleted: C:\Users\ts1506\Desktop\Security\ryre.txt.enc at Fri Nov  1 14:54:06 2024
+2024-11-06 17:20:42,591 - WARNING - First detection of encryption activity: 
+2024-11-06 17:22:18,474 - WARNING - First detection of encryption activity: 
+2024-11-06 17:23:07,372 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:30,089 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:31,780 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:33,468 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:35,120 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:36,788 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:38,455 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:40,146 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:41,804 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:43,504 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:45,178 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:46,947 - WARNING - First detection of encryption activity: 
+2024-11-06 17:24:48,603 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:23,444 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:25,786 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:28,115 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:30,447 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:32,858 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:35,217 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:37,552 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:39,919 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:42,224 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:44,558 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:46,873 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:49,303 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:51,719 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:54,183 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:56,507 - WARNING - First detection of encryption activity: 
+2024-11-06 17:44:58,820 - WARNING - First detection of encryption activity: 
+2024-11-06 17:45:01,277 - WARNING - First detection of encryption activity: 
+2024-11-06 17:45:03,596 - WARNING - First detection of encryption activity: 
+2024-11-06 17:45:05,987 - WARNING - First detection of encryption activity: 
+2024-11-06 17:45:08,403 - WARNING - First detection of encryption activity: 
+2024-11-06 17:45:10,708 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:27,156 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:29,496 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:31,834 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:34,175 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:36,610 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:38,932 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:41,236 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:43,552 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:45,912 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:48,213 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:50,578 - WARNING - First detection of encryption activity: 
+2024-11-06 17:47:52,987 - WARNING - First detection of encryption activity: 
+2024-11-06 18:24:27,419 - INFO - Terminated process: 528 - encrypt.py

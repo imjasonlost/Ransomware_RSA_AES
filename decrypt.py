@@ -46,7 +46,7 @@ def load_rsa_keys():
 
 # Main decryption process
 if __name__ == "__main__":
-    folder_to_decrypt = "C:\\Users\\ts1506\\Desktop\\Security"
+    folder_to_decrypt = "C:\\Jason\\Computer Security"
 
     # Load RSA private key
     private_key = load_rsa_keys()
